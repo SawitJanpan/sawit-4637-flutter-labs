@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'main_student_profile.dart';
+import 'main_quote_card.dart';
 
 void main() {
-  runApp(const StudentProfile());
+  runApp(const QuoteCard());
 }
 
 class MyApp extends StatelessWidget {
