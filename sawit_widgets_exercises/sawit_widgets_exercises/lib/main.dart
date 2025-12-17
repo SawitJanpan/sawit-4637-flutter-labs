@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
 import 'main_student_profile.dart';
 import 'main_quote_card.dart';
+import 'main_quote_container_card.dart';
+import 'main_custom_font.dart';
 
 void main() {
-  runApp(const QuoteCard());
+  runApp(const QuoteCardContainer());
 }
 
 class MyApp extends StatelessWidget {
