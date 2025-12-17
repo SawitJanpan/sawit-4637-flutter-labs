@@ -48,7 +48,13 @@ class QuoteCard extends StatelessWidget {
         ),
       ),
     );
-    
   }
-  
 }
+
+// ============================================
+// AI DOCUMENTATION
+// - I don't use any AI tools
+// - I use slide flutter-widgets-part1 for find widget to use like a Expanded, Container and see how to import image for use in project
+// @author Sawit Janpan
+// @version 1.0.0
+// @date 2025-12-17

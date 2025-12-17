@@ -38,10 +38,18 @@ class StudentProfile extends StatelessWidget {
         ),
       ),
     );
-    
   }
-  
 }
+
+// ============================================
+// AI DOCUMENTATION
+// - I don't use any AI tools
+// - I use slide flutter-widgets-part1 for find widget to use like a Text, Column, SizedBox
+// - I search google how to use child and children
+// - I see example from main.dart defult flutter project for structure of flutter app
+// @author Sawit Janpan
+// @version 1.0.0
+// @date 2025-12-17
 
 
 
