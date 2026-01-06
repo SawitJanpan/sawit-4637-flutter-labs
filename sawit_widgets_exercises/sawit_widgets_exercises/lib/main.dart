@@ -3,9 +3,11 @@ import 'main_student_profile.dart';
 import 'main_quote_card.dart';
 import 'main_quote_container_card.dart';
 import 'main_custom_font.dart';
+import 'main_pet_gallery.dart';
+import 'main_pet_model_gallery.dart';
 
 void main() {
-  runApp(const QuoteCardContainer());
+  runApp(const MainPetModelGallery());
 }
 
 class MyApp extends StatelessWidget {
