@@ -104,7 +104,7 @@ class NewsFeedScreen extends StatelessWidget {
             Text(
               article.description,
               style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-                    color: Theme.of(context).colorScheme.onSurface,
+                    color: Theme.of(context).colorScheme.primary
                   ),
             ),
             const SizedBox(height: 12.0),
