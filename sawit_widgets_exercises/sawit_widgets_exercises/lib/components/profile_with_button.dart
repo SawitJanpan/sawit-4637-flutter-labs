@@ -7,12 +7,12 @@
 import 'package:flutter/material.dart';
 
 class ProfileWithButton extends StatefulWidget {
-  final String studentId;
+  final String contact;
   final String name;
   final String imagePath;
   const ProfileWithButton({
     super.key,
-    required this.studentId,
+    required this.contact,
     required this.name,
     required this.imagePath,
   });
@@ -64,7 +64,7 @@ class _ProfileWithButtonState extends State<ProfileWithButton> {
               style: const TextStyle(fontWeight: FontWeight.bold),
             ),
           ),
-          Text(widget.studentId, style: TextStyle(fontWeight: FontWeight.bold),),
+          Text(widget.contact, style: TextStyle(fontWeight: FontWeight.bold),),
         ],
       ),
     ),

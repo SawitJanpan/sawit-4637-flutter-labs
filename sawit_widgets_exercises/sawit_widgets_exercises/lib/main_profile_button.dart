@@ -23,7 +23,7 @@ void main() {
         ),
       ),
       themeMode: ThemeMode.system,
-      home: const ProfileWithButton(studentId: '653040463-7', name: 'Sawit',imagePath: 'assets/images/profile_picture.jpg',),
+      home: const ProfileWithButton(contact: '065-093-9999', name: 'Sawit',imagePath: 'assets/images/profile_picture.jpg',),
       debugShowCheckedModeBanner: false,
     ),
   );
